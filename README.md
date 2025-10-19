@@ -7,7 +7,7 @@ ML / Backend
 My Machine Learning projects:
 
 - **Classification of astronomical objects** — CatBoost + Optuna, custom stratification
-➜ Repository: TO BE ADDED
+➜ Repository: https://github.com/Krist-Marrakesh/Classification-of-astronomical-objects/tree/main
 - **Friend recommendation system for the Ostrovok hackathon** — Optuna + nn + skip connections + embeddings
 ➜ Repository: TO BE ADDED
 
