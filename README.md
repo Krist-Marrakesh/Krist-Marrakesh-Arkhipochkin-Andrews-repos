@@ -8,8 +8,8 @@ My Machine Learning projects:
 
 - **Classification of astronomical objects** — CatBoost + Optuna, custom stratification
 ➜ Repository: https://github.com/Krist-Marrakesh/Classification-of-astronomical-objects/tree/main
-- **Friend recommendation system for the Ostrovok hackathon** — Optuna + nn + skip connections + embeddings
-➜ Repository: TO BE ADDED
+- **Friend recommendation system * — Optuna + nn + skip connections + embeddings
+➜ Repository: (https://github.com/Krist-Marrakesh/Hybrid-Hotel-Recommendation-System-Based-on-Friends-Recommendations)
 
 Technologies:
 `Python` `PyTorch` `scikit-learn` `CatBoost` `Optuna` `FastAPI` `PostgreSQL` `Sqlalchemy` `Docker` `aiogram`
