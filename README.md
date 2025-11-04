@@ -11,6 +11,9 @@ My Machine Learning projects:
 - *Friend recommendation system* — Optuna + nn + skip connections + embeddings
 ➜ Repository: (https://github.com/Krist-Marrakesh/Hybrid-Hotel-Recommendation-System-Based-on-Friends-Recommendations)
 
+Article on Medium:
+https://medium.com/@zipper.krist/dcn-r-a-hybrid-deep-cross-architecture-with-residual-connections-for-feature-interaction-35fd0531fcb3
+
 Technologies:
 `Python` `PyTorch` `scikit-learn` `CatBoost` `Optuna` `FastAPI` `PostgreSQL` `Sqlalchemy` `Docker` `aiogram`
 
